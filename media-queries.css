@@ -1,0 +1,96 @@
+@media (max-width: 400px) {
+    /*About Section*/
+    .about {
+        font-size: 12px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+    }
+    .headshot {
+        width: 200px;
+        height: 250px;
+        border-radius: 200px;
+    }
+    .heading {
+        padding-bottom: 10px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 24px;
+        color: #73C9E3;
+    }
+    .icon {
+        width: 50px;
+        height: 50px;
+        display: inline-block;
+        padding-top: 5px;
+        padding-left: 20px;
+    }
+    #icon-group {
+        padding-left: 55px;
+    }
+    .top {
+        font-size: 80px;
+        color: #73C9E3;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+    }
+    .top2 {
+        color: grey;
+        font-size: 20px;
+        /*        padding-left: 10px;*/
+        font-family: 'Inconsolata', serif;
+    }
+    /* Education */
+    .edImg {
+        width: 50px;
+        height: 50px;
+    }
+    .edu {
+        font-size: 8px;
+        padding-right: 10px;
+        color: grey;
+    }
+    .edu1 {
+        font-size: 8px;
+        padding-bottom: 0;
+        padding-top: 10px;
+        font-style: italic;
+        color: grey;
+        display: none;
+    }
+    .edH {
+        font-size: 12px;
+    }
+    .uda2 {
+        padding-top: 13px;
+    }
+    #projects {
+        width: 250px;
+        height: 150px;
+        /*        padding-bottom: 10px;*/
+        padding-right: 5px;
+    }
+    .pro-heading {
+        /*        padding-top: 10px;*/
+        padding-bottom: 5px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        color: #5BC0DE;
+    }
+    .top3 {
+        color: grey;
+        font-size: 10px;
+        font-family: 'Inconsolata', serif;
+    }
+    .top4 {
+        color: grey;
+        font-size: 10px;
+        font-family: 'Inconsolata', serif;
+    }
+    .pro {
+        padding-left: 0px;
+    }
+    .links {
+        margin-left: 90px;
+    }
+}
